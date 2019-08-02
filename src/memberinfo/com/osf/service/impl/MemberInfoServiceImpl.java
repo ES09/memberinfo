@@ -3,8 +3,6 @@ package memberinfo.com.osf.service.impl;
 import java.util.List;
 import java.util.Map;
 
-import javax.annotation.Resource;
-
 import memberinfo.com.osf.dao.MemberInfoDAO;
 import memberinfo.com.osf.dao.impl.MemberInfoDAOImpl;
 import memberinfo.com.osf.service.MemberInfoService;
